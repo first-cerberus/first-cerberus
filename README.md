@@ -10,8 +10,6 @@
 -->
 ## 🛠 &nbsp;Tech Stack
 
-![MERN Stack](https://img.shields.io/badge/-MERN%20Stack-333333?style=for-the-badge&logoColor=white)
-
 ### Core
 
 ![REACT](https://img.shields.io/badge/-REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
