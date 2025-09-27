@@ -31,6 +31,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff&style=for-the-badge)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=fff)
+<br/>
 ![React Bootstrap](https://img.shields.io/badge/-React%20Bootstrap-563D7C?style=for-the-badge&logo=react-bootstrap&logoColor=fff)
 ![Keycloak](https://img.shields.io/badge/Keycloak-3C3C3C?logo=keycloak&logoColor=white&style=for-the-badge)
 
