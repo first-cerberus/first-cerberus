@@ -8,11 +8,11 @@
         <a href="https://github.com/anuraghazra/convoychat"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ArtemMinich&layout=compact&langs_count=8&card_width=320&theme=github_dark"/></a>
 </div> 
 -->
-### 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tech Stack
 
 ![MERN Stack](https://img.shields.io/badge/-MERN%20Stack-333333?style=for-the-badge&logoColor=white)
 
-#### Core
+### Core
 
 ![REACT](https://img.shields.io/badge/-REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
@@ -20,13 +20,13 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge)
 
-#### Familiar languages
+### Familiar languages
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)
 ![JAVA](https://img.shields.io/badge/-JAVA-007396?style=for-the-badge&logo=java&logoColor=fff)
 ![C Sharp](https://img.shields.io/badge/C%20Sharp-239120?logo=csharp&logoColor=fff&style=for-the-badge)
 
-#### Libraries / frameworks
+### Libraries / frameworks
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff&style=for-the-badge)
@@ -44,13 +44,13 @@
 
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=fff)
 
-#### Managementing
+### Managementing
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github)
 
 
-#### Virtualization
+### Virtualization
 
 ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
 
