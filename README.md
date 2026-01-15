@@ -1,13 +1,3 @@
-<div style="flex" align="center">
-    <div align="end">
-        <a href="https://wakatime.com/@1958a0b8-abbb-4682-81ce-407175aa097b"><img
-            src="https://wakatime.com/badge/user/1958a0b8-abbb-4682-81ce-407175aa097b.svg"
-            alt="Total time coded" /></a>
-    </div>
-    <br>
-    <a href="https://github.com/first-cerberus"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=first-cerberus&layout=compact&langs_count=8&card_width=320&theme=github_dark"/></a>
-</div>
-
 ## 🛠 &nbsp;Tech Stack
 
 ### Core
